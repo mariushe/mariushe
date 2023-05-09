@@ -1,6 +1,4 @@
-### Hi there 👋
 
-💬 Writing about code at [Dead Code Rising](https://www.deadcoderising.com)
 <!--
 **mariushe/mariushe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
